@@ -1,0 +1,30 @@
+.container-fluid {
+    background-color: black;
+}
+.container-fluid .container .navbar.navbar-expand-lg.navbar-light.bg-light {
+    font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+    background-image: white;
+}
+.container-fluid .container footer {
+    background-color: white;
+    font-size: large;
+}
+
+.container .navbar.navbar-expand-lg.navbar-light.bg-light .navbar-brand {
+    color: #E0EEF1;
+    font-style: normal;
+    font-size: x-large;
+}
+.navbar-nav.mr-auto .nav-item.active .nav-link {
+    color: red;
+}
+.navbar-nav.mr-auto .nav-item .nav-link {
+    color: #CDCDCD;
+}
+.container-fluid .container .text-center.text-capitalize {
+    font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
+	color: red;
+
+}
+.container-fluid .container footer {
+}
